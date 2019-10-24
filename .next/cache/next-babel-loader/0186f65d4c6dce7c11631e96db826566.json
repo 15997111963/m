@@ -1,0 +1,1 @@
+{"ast":null,"code":"var config = __NEXT_DROP_CLIENT_FILE__ = \"__NEXT_DROP_CLIENT_FILE__ 1571899186138\";","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import Index from \"@/view/home\"\n\nexport const config = { amp: true }\n\nexport default Index"]},"metadata":{},"sourceType":"script"}
